@@ -1,0 +1,133 @@
+<html>
+<title>Buttons Exercise</title>
+<meta name="description" content="Buttons of various comapanies">
+<head>
+</head>
+
+<body>
+
+<style>   
+
+.requestnow-button{
+  background-color: black;
+  color: white;
+  width: 130px;
+  height: 40px;
+  cursor: pointer;
+  margin-right:10px;
+  border:none;
+}
+
+.addtocart-button{
+  background-color: rgb(240, 225, 17);
+  border-radius:30px;
+  width:180px;
+  height:40px;
+  font-size:medium;
+  border:none;
+  cursor:pointer;
+  margin-right:10px;
+}
+
+.signup-button{
+  background-color: rgb(34, 189, 78);
+  color: white;
+  border:none;
+  cursor:pointer;
+  border-radius:5px;
+  width: 100px;
+  height: 40px;
+  font-size: medium;
+  font-weight:bold;
+  margin-right:10px;
+}
+
+.getstarted-button{
+  background-color: rgb(169, 100, 177);
+  color: white;
+  border:none;
+  height: 40px;
+  width: 120px;
+  border-radius:5px;
+  font-weight:bold;
+  margin-right:10px;
+  cursor:pointer;
+}
+
+.download-button{
+  background-color: white;
+  color: rgb(165, 165, 165);
+  border-color: rgb(162, 165, 165);
+  border-width:1px;
+  border-style:groove;
+  border-radius:5px;
+  width: 120px;
+  height: 40px;
+  font-weight: solid;
+  margin-right:10px;
+  cursor:pointer;
+}
+
+.applyoncompanywebsite-button{
+  margin-right:10px;
+  background-color: rgb(51, 146, 241);
+  color: white;
+  border:none;
+  width: 225px;
+  height: 40px;
+  border-radius: 40px;
+  font-weight: bolder;
+  cursor:pointer;
+}
+
+
+.save-button{
+  margin-right:10px;
+  cursor:pointer;
+  width: 90px;
+  height: 40px;
+  border-radius: 40px;
+  border-width:1px;
+  border-color: rgb(47, 131, 241);
+  background-color: white;
+  color: rgb(47, 131, 241);
+  font-weight: bolder;
+  font-size: medium;
+}  
+
+
+
+
+</style>
+
+<button class="requestnow-button">
+  Request now
+</button>
+
+<button class="addtocart-button">
+  Add to cart
+</button>
+
+<button class="signup-button">
+  Sign up
+</button>
+
+<button class="getstarted-button">  
+  Get Started
+</button>
+
+<button class="download-button">  
+  Download
+</button>
+
+<button class="applyoncompanywebsite-button">
+  Apply on company website
+</button>
+
+<button class="save-button">
+  Save
+</button>
+
+</body>
+
+</html>
